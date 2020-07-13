@@ -1,3 +1,7 @@
+__Disclaimer:__ This repository is not maintained anymore!
+
+------
+
 # FAQ Bot Framework
 
 A chatbot framework which organically learns to handle the most frequently asked questions.
